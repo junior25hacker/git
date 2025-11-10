@@ -10,5 +10,6 @@ void hellOo()
         std::cout << "Hello, Universe!" << std::endl;
 
     }
+    std::cout << "Finished printing Hello, Universe!" << std::endl;
 }
 #endif PHELLO_H
